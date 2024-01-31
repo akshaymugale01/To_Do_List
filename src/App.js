@@ -51,7 +51,7 @@ function App() {
     <div className="App">
       <div className='centre_div'>
         <br />
-        <h1> Todo List </h1>
+        <h1> Todo List - akshaay01 </h1>
         <br />
         <input 
            type="text" 
